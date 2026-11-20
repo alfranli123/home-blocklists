@@ -1,6 +1,6 @@
 # Spamhaus DROP List (IPv4) - data from The Spamhaus Project
 # (c) 2026 The Spamhaus Project SLU
-# Spamhaus list timestamp: 2026-11-18 12:56:44 UTC
+# Spamhaus list timestamp: 2026-11-20 13:56:44 UTC
 # Source: https://www.spamhaus.org/drop/drop_v4.json
 # Terms: https://www.spamhaus.org/drop/terms/
 # Ranges: 1612 (collapsed from 1747 records)
@@ -437,7 +437,6 @@
 102.135.106.0/24
 102.220.112.0/22
 102.220.160.0/22
-102.240.1.0/24
 103.1.43.0/24
 103.3.212.0/22
 103.4.32.0/22
@@ -503,6 +502,7 @@
 103.133.136.0/23
 103.146.208.0/23
 103.148.42.0/24
+103.155.92.0/23
 103.155.236.0/24
 103.157.75.0/24
 103.163.50.0/23
